@@ -9,6 +9,7 @@
 // - provides access to search/users/repos github APIs
 // - colorize the output
 // - extend templates
+//
 package main
 
 import (
